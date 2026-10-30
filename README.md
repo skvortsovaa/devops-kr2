@@ -59,4 +59,3 @@ rsync -avz --delete --exclude=.env --exclude=.git ./ devops:kr2/
 Исходный шаблон: https://gitverse.ru/dgimatdinov/kr2-template
 Основная ветка содержит исходный шаблон. Решение находится в
 `kr2/variant-2`; Pull Request оставляется открытым до защиты.
-
