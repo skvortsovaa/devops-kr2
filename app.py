@@ -1,3 +1,4 @@
+# KR2: Skvortsov
 import os
 import socket
 
